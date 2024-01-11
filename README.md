@@ -1,34 +1,10 @@
  
-<h1 align="left">Hi 👋, I'm Mansoor</h1>
+<h1 align="center">Hi 👋, I'm Mansoor</h1>
 
-<p align="left">
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=E1391A&vCenter=true&width=600&margin=auto&lines=Hello%2CI'm++Mansoor;Java+Developer"/></p>
-
-<h3 align="left">A passionate Java full stack developer from India</h3>
+<h3 align="center">A passionate Java full stack developer from India</h3>
 
 ![](https://komarev.com/ghpvc/?username=Mansoor-P&style=for-the-badge)
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-
-- 🌱 I have completed Full Stack Development with **Java, SQL, DSA, HTML, CSS, Javascript,Data structures and Algorithms etc.**
-
-- 🔭 I’m currently working on frontend technologies etc.
-
-- 💬 Talks about **React, Web-Design, Web-Development**
-
-- 📫 How to reach me **munaf6007@gmail.com**
-
-- 🔭 Know more about me **[Portfolio](https://mansoorsportfolio.netlify.app)**
-
-- ⚡ Fun fact **I think I'm good in singing**
-
-<br>
-
-## 🌐 Connect with me::
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansoor0731/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://mansoorsportfolio.netlify.app/)
-[![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?logo=instagram&logoColor=#FF7139)](https://www.instagram.com/mansoor_317/)
 
 # 💻 Tech Stack:
      
@@ -56,6 +32,29 @@
   </p>
 
 <br />
+
+
+### <img src="mansoor-typing.jpeg" align="right" width="400" height="300" > 
+### A little more about me...
+
+- 🌱 I have completed Full Stack Development with **Java, SQL, DSA, HTML, CSS, Javascript,Data structures and Algorithms etc.**
+  
+- I do fullstack and a bit of everything ❤️
+  
+- 📫 How to reach me **munaf6007@gmail.com**
+
+- 🔭 Know more about me **[Portfolio](https://mansoorsportfolio.netlify.app)**
+
+- Checkout my **[Resume]()**
+  
+- ⚡ Fun fact **I think I'm good in singing**
+
+## 🌐 Connect with me::
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansoor0731/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://mansoorsportfolio.netlify.app/)
+[![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?logo=instagram&logoColor=#FF7139)](https://www.instagram.com/mansoor_317/)
+
+
 
 <h2 align="center">🤝 Support</h2>
 
