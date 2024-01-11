@@ -1,9 +1,29 @@
  
 <h1 align="left">Hi 👋, I'm Mansoor</h1>
+
 <p align="left">
 <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=E1391A&vCenter=true&width=600&margin=auto&lines=Hello%2CI'm++Mansoor;Java+Developer"/></p>
 
 <h3 align="left">A passionate Java full stack developer from India</h3>
+
+![](https://komarev.com/ghpvc/?username=Mansoor-P&style=for-the-badge)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
+- 🌱 I have completed Full Stack Development with **Java, SQL, DSA, HTML, CSS, Javascript,Data structures and Algorithms etc.**
+
+- 🔭 I’m currently working on frontend technologies etc.
+
+- 💬 Talks about **React, Web-Design, Web-Development**
+
+- 📫 How to reach me **munaf6007@gmail.com**
+
+- 🔭 Know more about me **[Portfolio](https://mansoorsportfolio.netlify.app)**
+
+- ⚡ Fun fact **I think I'm good in singing**
+
+<br>
 
 ## 🌐 Connect with me::
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansoor0731/)
@@ -35,3 +55,14 @@
   
   </p>
 
+<br />
+
+<h2 align="center">🤝 Support</h2>
+
+<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+<p align="center">Made with ❤️ in India</p>
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
