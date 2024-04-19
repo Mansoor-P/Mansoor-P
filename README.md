@@ -37,7 +37,7 @@
 ### <img src="mansoor-typing.jpeg" align="right" width="400" height="300" > 
 ### A little more about me...
 
-- 🌱 I have completed Full Stack Development with **Java, SQL, DSA, HTML, CSS, Javascript,Data structures and Algorithms etc.**
+- 🌱 I have completed Full Stack Development with **Java, Springboot, SQL, DSA, HTML, CSS, Javascript,Data structures and Algorithms etc.**
   
 - I do fullstack and a bit of everything ❤️
   
