@@ -39,7 +39,7 @@
   <ul>
     <li>🌱 I have completed Full Stack Development with <strong style="color: #FF5733;">Java, Spring Boot, SQL, DSA, HTML, CSS, JavaScript, Data Structures, and Algorithms</strong>.</li>
     <li>👨‍💻 I specialize in full-stack development and have experience in core subjects such as <strong style="color: #FF5733;">Operating Systems, Networking, Database Management Systems, System Design, and Distributed Systems</strong>.</li>
-    <li>📫 You can reach me at <a href="mailto:munaf6007@gmail.com">munaf6007@gmail.com</a>.</li>
+    <li>📫 You can reach me at <a href="mailto:munaf6007@gmail.com">mansoorpathikonda@gmail.com</a>.</li>
     <li>🔭 Know more about me on my <a href="https://mansoorsportfolio.netlify.app">portfolio</a>.</li>
     <li>⚡ Fun fact: <em>I think I'm good at singing!</em></li>
   </ul>
