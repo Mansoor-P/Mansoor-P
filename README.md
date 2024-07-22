@@ -1,8 +1,9 @@
+
 <body>
-  <h1 align="center">Hi 👋, I'm Mansoor</h1>
-  <h3 align="center">Passion in <span>Software Development Engineer</span></h3>
-  <div align="center">  
-    <img src="https://komarev.com/ghpvc/?username=Mansoor-P&style=for-the-badge" alt="Profile Views Badge" >  
+  <h1 align="center">Hi 👋, I'm Mansoor Pathikonda</h1>
+  <h3 align="center">Aspiring Software Development Engineer</h3>
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Mansoor-P&style=for-the-badge" alt="Profile Views Badge">
     <a href="https://www.linkedin.com/in/mansoor0731/">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="30">
     </a>
@@ -20,18 +21,15 @@
     </a>
   </div>
 
-  ### 🚀 About Me
+  <h2>🚀 About Me</h2>
 
-  Hi, I am <strong> Mansoor Pathikonda </strong>, a <i> <strong>passionate and dedicated software developer</strong></i>. I recently graduated with a degree in Computer Science & Engineering, and I am enthusiastic about starting my professional journey in software development. My strong foundation in <strong>Java Full Stack Development </strong>, along with a solid understanding of<strong> System Design </strong>, <strong> Database Management System</strong>, <strong>Operating System</strong>, and <strong>Networking Concepts</strong>, has prepared me to develop robust and scalable applications.
+  <p>Hi, I'm <strong>Mansoor Pathikonda</strong>, a passionate and dedicated software developer. I recently graduated with a degree in Master of Computer Applications hu and am excited to start my professional journey in software development. I have a strong foundation in <strong>Java Full Stack Development</strong>, along with a solid understanding of <strong>System Design</strong>, <strong>Database Management</strong>, <strong>Operating Systems</strong>, and <strong>Networking Concepts</strong>.</p>
 
-  Throughout my academic career, I completed coursework and projects that have equipped me with hands-on experience in various technologies, including <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>MySQL</strong>, <strong>MongoDB</strong>, <strong>React.js</strong>, and <strong>TailwindCSS</strong>. One of the highlights of my education was working on a Hotel Booking Web Application. This project allowed me to apply my technical skills in a practical setting, gaining valuable experience in developing web applications using Java and Spring Boot.
+  <p>During my academic career, I gained hands-on experience with technologies like <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>MySQL</strong>, <strong>MongoDB</strong>, <strong>React.js</strong>, and <strong>TailwindCSS</strong>. One of my notable projects was a Hotel Booking Web Application, where I applied my technical skills in a practical setting, developing web applications using Java and Spring Boot.</p>
 
-  I am enthusiastic about both backend and frontend development, enjoying the process of creating robust and scalable applications. My academic projects and personal endeavors have provided me with hands-on experience in building comprehensive full-stack web applications. I have explored and implemented technologies such as <strong>REST API</strong>'s and <strong> Progressive Web Apps (PWAs)</strong> to enhance my skill set.
+  <p>I enjoy both backend and frontend development, creating robust and scalable applications. My projects have given me experience in building comprehensive full-stack web applications, including <strong>REST APIs</strong> and <strong>Progressive Web Apps (PWAs)</strong>. I'm eager to bring my skills and passion for software development to a professional setting and contribute to impactful projects.</p>
 
-  I am excited about the opportunity to contribute my skills and passion to your team. Thank you for considering my application. I look forward to discussing how my background and experiences can contribute to the success of your organization. As a fresher, I am eager to bring my skills and passion for software development to a professional setting and contribute to impactful projects.
-
-  <h2 align="left">💻 Tech Stack:</h2>
-
+  <h2>💻 Tech Stack</h2>
   <p align="center">
     <a href="https://github.com/search?q=user%3AMansoor-P+language%3Ajava">
       <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
@@ -92,11 +90,10 @@
     </a>
   </p>
 
+  <h2>📫 Connect with Me</h2>
 
-  <h2 align="left" >📫 Connect with me:</h2>
-
-  <div align="left">
-    <p><a  href="mailto:mansoorpathikonda@gmail.com">mansoorpathikonda@gmail.com</a></p>
-    <p>+91 9704039210</p>
-  </div>
+  <p>
+    <a href="mailto:mansoorpathikonda@gmail.com">mansoorpathikonda@gmail.com</a><br>
+    +91 9704039210
+  </p>
 </body>
