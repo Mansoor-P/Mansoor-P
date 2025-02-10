@@ -38,12 +38,11 @@
       <img alt="JavaScript" src="https://custom-icon-badges.demolab.com/badge/JavaScript-yellow.svg?logo=javascript&logoColor=white">
     </td>
     <td>
-      <img alt="HTML5" src="https://custom-icon-badges.demolab.com/badge/HTML5-orange.svg?logo=html5&logoColor=white">
-      <img alt="CSS3" src="https://custom-icon-badges.demolab.com/badge/CSS3-blue.svg?logo=css3&logoColor=white">
       <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
       <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?logo=tailwindcss&logoColor=white">
+      <img alt="HTML5" src="https://custom-icon-badges.demolab.com/badge/HTML5-orange.svg?logo=html5&logoColor=white">
+      <img alt="CSS3" src="https://custom-icon-badges.demolab.com/badge/CSS3-blue.svg?logo=css3&logoColor=white">
       <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
-      <img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white">
     </td>
     <td>
       <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=spring-boot&logoColor=white">
