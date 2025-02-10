@@ -14,12 +14,11 @@
 
   <h2>🚀 About Me</h2>
 
-  <p>Hi, I'm <strong>Mansoor Pathikonda</strong>, a passionate and dedicated software developer. I recently graduated with a degree in Master of Computer Applications hu and am excited to start my professional journey in software development. I have a strong foundation in <strong>Java Full Stack Development</strong>, along with a solid understanding of <strong>System Design</strong>, <strong>Database Management</strong>, <strong>Operating Systems</strong>, and <strong>Networking Concepts</strong>.</p>
+<p>Hi, I'm <strong>Mansoor Pathikonda</strong>, a passionate software developer with a Master's in Computer Applications. I specialize in <strong>Java Full Stack Development</strong>, with expertise in <strong>System Design</strong>, <strong>Database Management</strong>, <strong>Operating Systems</strong>, and <strong>Networking Concepts</strong>.</p>
 
-  <p>During my academic career, I gained hands-on experience with technologies like <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>MySQL</strong>, <strong>MongoDB</strong>, <strong>React.js</strong>, and <strong>TailwindCSS</strong>. One of my notable projects was a Hotel Booking Web Application, where I applied my technical skills in a practical setting, developing web applications using Java and Spring Boot.</p>
+<p>I have hands-on experience with <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>MySQL</strong>, <strong>MongoDB</strong>, <strong>React.js</strong>, and <strong>Tailwind CSS</strong>. I developed a Hotel Booking Web Application using Java and Spring Boot, showcasing my ability to build <strong>scalable full-stack applications</strong> with <strong>REST APIs</strong>.</p>
 
-  <p>I enjoy both backend and frontend development, creating robust and scalable applications. My projects have given me experience in building comprehensive full-stack web applications, including <strong>REST APIs</strong> . I'm eager to bring my skills and passion for software development to a professional setting and contribute to impactful projects.</p>
-
+<p>I'm eager to apply my skills in a professional setting and contribute to impactful projects.</p>
 
 <h2>💻 Tech Stack</h2>
 
